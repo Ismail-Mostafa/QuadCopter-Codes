@@ -1,0 +1,9 @@
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\bin\Debug\ArtrCopter.exe
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\bin\Debug\ArtrCopter.pdb
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\ArtrCopter.exe
+C:\Users\Dodo\documents\visual studio 2010\Projects\ArtrCopter\ArtrCopter\obj\x86\Debug\ArtrCopter.pdb
